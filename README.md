@@ -1,0 +1,1 @@
+<h1 align="center">holbertonschool-zero_day</h1>
